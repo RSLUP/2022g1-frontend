@@ -1,0 +1,37 @@
+.homepage{
+    background-size: cover;
+    max-width: 1920px;
+    height: 800px;
+    background-image: url(/assets/images/home.jpg);
+}
+
+.messageDiv{
+    width: 350px;
+    height:430px ;
+}
+
+.message{
+    width: 350px;
+    height: 430px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    margin-left: 50%;
+}
+
+.btn {
+    width: 180px;
+    height: 60px;
+    margin-left: 75%;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.booksButton{
+    width: 350px;
+    height: auto;
+}
